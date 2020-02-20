@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4952e6a0-144f-4cf4-a3fd-76039fd7701e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1XNJk2JYhzAYton0ZDVg8WbdR1R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4952e6a0-144f-4cf4-a3fd-76039fd7701e" name="Default Changelist" comment="" />
+      <created>1580880757472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580880757472</updated>
+      <workItem from="1580880758763" duration="101000" />
+      <workItem from="1580880870854" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="142" width="700" height="819" key="#PHP" timestamp="1580880857658">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="605" y="142" width="700" height="819" key="#PHP/0.28.1920.1052@0.28.1920.1052" timestamp="1580880857658" />
+    <state x="643" y="282" width="624" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580880828744">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="643" y="282" width="624" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1580880828744" />
+    <state x="449" y="189" key="SettingsEditor" timestamp="1580880982446">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="449" y="189" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1580880982446" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1580880871539">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1580880871539" />
+  </component>
+</project>
